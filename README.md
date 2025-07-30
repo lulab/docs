@@ -1,1 +1,9 @@
-# docs
+# Docs of Lu Lab @ Tsinghua University
+
+* [Docs of Lu Lab](http://lulab.life.tsinghua.edu.cn/docs) by mkdocs (Under development, to be done by 2025.08)
+  * [mirror](https://lulab.github.io/mkdocs) @ github page 
+
+
+---
+
+> [Archived Docs](https://lulab.gitbook.io/docs) @gitbook (archived on July 30th, 2025)
