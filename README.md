@@ -1,7 +1,7 @@
 # Docs of Lu Lab @ Tsinghua University
 
-* [Docs of Lu Lab](http://lulab.life.tsinghua.edu.cn/docs) by mkdocs (Under development, to be done by 2025.08)
-  * [mirror](https://lulab.github.io/mkdocs) @ github page 
+* [Docs of Lu Lab](http://lulab.life.tsinghua.edu.cn/docs) @tsinghua _made by mkdocs_
+ * [mirror site](https://lulab.github.io/mkdocs) @ github page 
 
 
 ---
