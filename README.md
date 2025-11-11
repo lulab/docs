@@ -1,7 +1,7 @@
 # Docs of Lu Lab @ Tsinghua University
 
-* [International Site](https://lulab.github.io/mkdocs) @ github page 
-* [Mirror site @ Tsinghua, China](http://lulab.life.tsinghua.edu.cn/docs)  _made by mkdocs_
+* [Main site @ Tsinghua, China](http://lulab.life.tsinghua.edu.cn/docs)  _made by mkdocs_
+* [Mirror Site](https://lulab.github.io/mkdocs) @ github page 
 
 
 
